@@ -70,7 +70,7 @@ When comparing values of different types, JavaScript converts the values to numb
 For example:
 
 ```js run
-alert( '2' > 1 ); // true, string '2' becomes a number 2
+alert( '2' > 2 ); // true, string '2' becomes a number 2
 alert( '01' == 1 ); // true, string '01' becomes a number 1
 ```
 
